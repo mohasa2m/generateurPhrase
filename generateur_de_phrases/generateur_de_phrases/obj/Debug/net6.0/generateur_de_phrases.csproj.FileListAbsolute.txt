@@ -1,0 +1,15 @@
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\bin\Debug\net6.0\generateur_de_phrases.exe
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\bin\Debug\net6.0\generateur_de_phrases.deps.json
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\bin\Debug\net6.0\generateur_de_phrases.runtimeconfig.json
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\bin\Debug\net6.0\generateur_de_phrases.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\bin\Debug\net6.0\generateur_de_phrases.pdb
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.csproj.AssemblyReference.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.AssemblyInfoInputs.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.AssemblyInfo.cs
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.csproj.CoreCompileInputs.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\refint\generateur_de_phrases.dll
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.pdb
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\generateur_de_phrases.genruntimeconfig.cache
+C:\Users\megam\OneDrive\Bureau\projets_cs\generateur_de_phrases\generateur_de_phrases\obj\Debug\net6.0\ref\generateur_de_phrases.dll
